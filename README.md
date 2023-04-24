@@ -9,11 +9,15 @@ the degree of the polynomial n
 
 The output contains:
 
-the matrix A itself after the line "A:"
-the matrix (AT A) after the line "A_T*A:"
-the matrix (AT A)-1 after the line "(A_T*A)_-1:"
-the matrix AT b after the line "A_T*b:"
-the answer itself after the line "x:"
+-- the matrix A itself after the line "A:"
+
+-- the matrix (AT A) after the line "A_T*A:"
+
+-- the matrix (AT A)-1 after the line "(A_T*A)_-1:"
+
+-- the matrix AT b after the line "A_T*b:"
+
+-- the answer itself after the line "x:"
 
 Example: 
 
